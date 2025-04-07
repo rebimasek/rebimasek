@@ -1,14 +1,14 @@
 # Hi there 👋
 ## Background
 Labtechnician since 2020 
-working on small projects myself
 
 ## Research Project
-variable
+variable projects on different Interleukins
 
 ## Affiliation
-DQBM, Boyman lab
+Department of Quantitative Biomedicine, Boyman lab
 ## Education
 |Studies|year|
 |-|-|
+|Careum Dipl. biomedical analyst|2014-2017|
 |University of Zurich Bsc in Biomedicine|2017 - 2020|
